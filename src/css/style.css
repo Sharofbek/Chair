@@ -91,7 +91,7 @@ a{
 	border-bottom: 3px solid #212121;
 }
 
-.slider>img{
+.slider > .slider-images>img{
 	position: absolute;
 	z-index: -1;
 }
